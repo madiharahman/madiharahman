@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madiha Rahman</h1>
 <h3 align="center">Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madiharahman&label=Profile%20views&color=0e75b6&style=flat" alt="madiharahman" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/madiharahman](https://github.com/madiharahman)
 
-- 📫 How to reach me **madiharahman7may@gmail.com**
+- 📫 Reach me at **madiharahman7may@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madiharahman&show_icons=true&locale=en&layout=compact" alt="madiharahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madiharahman&show_icons=true&locale=en" alt="madiharahman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madiharahman&" alt="madiharahman" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=madiharahman&" alt="madiharahman" /></p>
