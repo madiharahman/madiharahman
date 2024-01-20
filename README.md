@@ -1,3 +1,4 @@
+<h2 align="center">Welcome to My GitHub Profile!</h2>
 <div id="header" align="center">
   <img src="http://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" width="100"/>
 </div>
@@ -15,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madiharahman&label=Profile%20views&color=0e75b6&style=flat" alt="madiharahman" /> </p>
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently pursuing **Masters in Data Science** from **Aligarh Muslim University**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/madiharahman](https://github.com/madiharahman)
 
